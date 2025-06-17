@@ -830,13 +830,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/suzuhime/proprietary/vendor/lib/hw/android.hardware.thermal@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.thermal@1.0-impl.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/hw/android.hardware.thermal@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.thermal@2.0-impl.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.bluetooth.default.so \
-    vendor/samsung/suzuhime/proprietary/vendor/lib/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.default.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/hw/audio.primary.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6765.so \
-    vendor/samsung/suzuhime/proprietary/vendor/lib/hw/audio.r_submix.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.default.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/hw/audio.r_submix.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.mt6765.so \
-    vendor/samsung/suzuhime/proprietary/vendor/lib/hw/audio.usb.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.usb.default.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/hw/audio.usb.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.usb.mt6765.so \
-    vendor/samsung/suzuhime/proprietary/vendor/lib/hw/audio_policy.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio_policy.stub.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/hw/awinic.audio.effect.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/awinic.audio.effect.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/hw/cdfinger.fingerprint.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/cdfinger.fingerprint.default.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/hw/face.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/face.default.so \
@@ -1270,7 +1266,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/suzuhime/proprietary/vendor/lib/libsysenv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsysenv.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/libthermalalgo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthermalalgo.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/libthha.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthha.so \
-    vendor/samsung/suzuhime/proprietary/vendor/lib/libtinycompress.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinycompress.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/libtqvalidate.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtqvalidate.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/libudf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libudf.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/libufwriter.so:$(TARGET_COPY_OUT_VENDOR)/lib/libufwriter.so \
@@ -1323,7 +1318,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/suzuhime/proprietary/vendor/lib/n8_s5k3l6_hlt_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/n8_s5k3l6_hlt_mipi_raw_tuning.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/sensors.rp.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.rp.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudioeffectoffload.so \
-    vendor/samsung/suzuhime/proprietary/vendor/lib/soundfx/libaudiopreprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/soundfx/libaudiopreprocessing_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing_mtk.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/soundfx/libgearvr.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libgearvr.so \
     vendor/samsung/suzuhime/proprietary/vendor/lib/soundfx/libmyspace.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmyspace.so \
